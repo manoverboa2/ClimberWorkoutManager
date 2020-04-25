@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ClimberWorkoutManager</string>
+    <string name="open_workout_list">See All Workouts</string>
+</resources>
